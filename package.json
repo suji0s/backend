@@ -1,0 +1,13 @@
+{
+  "name": "doctors-booking-api",
+  "version": "1.0.0",
+  "description": "a website for consulting doctore",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "suji0s",
+  "license": "ISC"
+}
